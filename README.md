@@ -1,36 +1,31 @@
-# HawkOsm — Portfolio & CV of Osman Şahin Güler
+# Hi — I'm Osman (HawkOsm) 👋
 
-HawkOsm is a personal portfolio repository containing Osman Şahin Güler’s professional documents. The repository includes reference PDFs (a portfolio and two CV versions: Turkish and English), but these files are not linked from this README by request — they remain in the repository for reference only.
+A short bio: I build tools and solutions around mapping, geodata and automation. I prefer clear, practical code and open-source collaboration.
 
-## Summary
-This repository hosts a portfolio and two versions of Osman Şahin Guler’s CV (Turkish and English). Short summaries of the included documents are provided below so you can get the main information without opening the PDFs.
+- 🔧 Top skills: Python · GIS / PostGIS · Docker · Bash · JavaScript · Git  
+- 🌐 Website: https://osmansahinguler.com  
+- ✉️ Email: email@example.com <!-- replace with your email if you want -->
 
-## Documents (for reference only)
-- Portfolio (summary): A selection of project highlights, visualizations, and a summary of geospatial work and web mapping demos.
-- CV — Turkish (summary): Professional experience, education, and skills focused on geospatial analysis, OSM, and related tooling.
-- CV — English (summary): Same content as the Turkish CV, translated for international viewers.
+Connect
+- LinkedIn: [your-linkedin](https://www.linkedin.com/in/your-linkedin) <!-- replace -->
+- Instagram: [your-instagram](https://instagram.com/your-instagram) <!-- replace -->
+- YouTube: [your-youtube](https://www.youtube.com/channel/your-channel) <!-- replace -->
 
-## Key skills & technologies (inferred)
-- OpenStreetMap (OSM) & web mapping
-- Geospatial analysis (GIS) and spatial data processing
-- Python (GeoPandas, Shapely, GDAL/OGR) and data scripting
-- Web mapping libraries (Leaflet, Mapbox) and map visualization
-- Databases: PostGIS / spatial databases
+<!-- Top projects (commented out — remove the HTML comments to show them)
+- [project-1](https://github.com/HawkOsm/project-1) — One-line description
+- [project-2](https://github.com/HawkOsm/project-2) — One-line description
+-->
 
-## Quick start / Usage
-1. Clone the repository: git clone <this-repo-url>
-2. Review the summaries above to get the core information without opening the PDFs.
+Badges & Stats
+![HawkOsm's GitHub stats](https://github-readme-stats.vercel.app/api?username=HawkOsm&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HawkOsm&layout=compact&theme=dark)
 
-This README intentionally does not link to or embed the PDFs; the documents are present in the repository for reference.
+Languages / Tools
+Python · JavaScript · Docker · PostGIS · SQL · Git · Bash · HTML/CSS
 
-## Contact
-- Email: replace-with-your-email@example.com  (please update with your preferred contact)
-- Alternatively, open an issue in this repository to request more information or to report problems.
+English / Turkish
+- English: I build open-source and mapping tools; I’m happy to collaborate on GIS, automation and data pipelines.
+- Türkçe: Açık kaynak ve haritalama araçları geliştiriyorum; GIS, otomasyon ve veri hatlarında iş birliğine açığım.
 
-## Next steps (suggestions)
-- Add small `projects/` examples or notebooks to demonstrate HawkOsm capabilities (optional).
-- Add a short Markdown bio if you'd like the main info to be visible on GitHub without downloading files.
-- Add badges or a header image for quick branding on the repository page.
-
-
-<!-- Commit message suggestion: "Update README: remove PDF links, state Turkish/English CVs and portfolio are reference-only, remove license recommendation" -->
+Fun fact
+- ⚡ I enjoy turning messy geodata into useful maps and reproducible pipelines.
