@@ -1,13 +1,13 @@
 # Hi — I'm Osman Şahin Güler 👋
 
-**Mapping engineer · automation builder · open-source collaborator**
+**Software engineer · automation builder · open-source collaborator**
 
 I build tools and solutions around mapping, geodata and automation — turning messy spatial data into reliable, reproducible pipelines and clean maps. I prefer clear, practical code and open-source collaboration.
 
 ---
 
 <!-- Quick contact & portfolio links -->
-- 🔧 Top skills: Python · GIS / PostGIS · Docker · Bash · JavaScript · Git
+- 🔧 Top skills: Python · Docker · Bash · Java · Git
 - 🌐 Portfolio: [osmansahinguler.com](https://osmansahinguler.com)
 - 📄 CV: [Osman_Sahin_Guler_CV.pdf](./Osman_Sahin_Guler_CV.pdf) / [English CV](./Osman_Sahin_Guler_CV_Ing.pdf)
 
@@ -39,7 +39,7 @@ A compact overview of my main tools.
 
 ## 🚀 Top Skills
 
-1. **Python** — Architecting high-performance computer vision pipelines using **YOLO (v8, v11)** for real time object detection.
+1. **Python** — Architecting high-performance computer vision pipelines using **YOLO (v8, v11, v26)** for real time object detection.
 2. **Autonomous Systems** — Developing low-latency mission management systems and telemetry data processing via the **ArduPilot** ecosystem and **MAVLink** protocol.
 3. **Docker** — Utilizing **Docker** to containerize development environments, ensuring environmental consistency and reproducible results during simulation and deployment
 ---
