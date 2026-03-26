@@ -9,7 +9,7 @@ I build tools and solutions around mapping, geodata and automation — turning m
 <!-- Quick contact & portfolio links -->
 - 🔧 Top skills: Python · Docker · Bash · Java · Git
 - 🌐 Portfolio: [osmansahinguler.com](https://osmansahinguler.com)
-- 📄 CV: [Osman_Sahin_Guler_CV.pdf](./Osman_Sahin_Guler_CV.pdf) / [English CV](./Osman_Sahin_Guler_CV_Ing.pdf)
+- 📄 CV: [Turkish CV](./Osman_Sahin_Guler_CV.pdf) / [English CV](./Osman_Sahin_Guler_CV_Ing.pdf)
 
 ---
 
