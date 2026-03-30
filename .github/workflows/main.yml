@@ -2,38 +2,39 @@ name: GitHub Readme Stats
 
 on:
   schedule:
-    - cron: '0 */12 * * *'
-  workflow_dispatch:
+    - cron: '0 */12 * * *' # Runs every 12 hours
+  workflow_dispatch: # Allows manual run
 
 jobs:
   publish:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
-      # 1. Generate the General Stats Card
+      # Generate General Stats
       - name: Generate Stats Card
-        uses: anuraghazra/github-readme-stats@master
+        uses: soulteary/github-readme-stats-action@v1.0.0
         with:
-          username: HawkOsm
-          show_icons: true
-          theme: dark
-          filename: github-stats.svg
+          card: stats
+          options: 'username=HawkOsm&show_icons=true&theme=dark'
+          path: github-stats.svg
+          token: ${{ secrets.GH_TOKEN }}
 
-      # 2. Generate the Top Languages Card (New!)
+      # Generate Top Languages
       - name: Generate Top Languages Card
-        uses: anuraghazra/github-readme-stats@master
+        uses: soulteary/github-readme-stats-action@v1.0.0
         with:
-          username: HawkOsm
-          card: top-langs      # <--- This tells it to do languages
-          layout: compact
-          theme: dark
-          filename: top-langs.svg
+          card: top-langs
+          options: 'username=HawkOsm&layout=compact&theme=dark'
+          path: top-langs.svg
+          token: ${{ secrets.GH_TOKEN }}
 
-      - name: Deploy to Repo
+      - name: Commit and Push
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add github-stats.svg top-langs.svg
-          git commit -m "Update GitHub Stats and Languages" || exit 0
+          git commit -m "Update GitHub Stats" || exit 0
           git push
