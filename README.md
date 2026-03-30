@@ -48,10 +48,11 @@ A compact overview of my main tools.
 
 These images pull live data for my GitHub username `HawkOsm`.
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/HawkOsm/HawkOsm/main/github-stats.svg" alt="HawkOsm's GitHub stats" height="170" />
-  <img src="https://raw.githubusercontent.com/HawkOsm/HawkOsm/main/top-langs.svg" alt="Top languages" height="170" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HawkOsm/HawkOsm/main/github-stats.svg" alt="HawkOsm's GitHub stats" height="165" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/HawkOsm/HawkOsm/main/top-langs.svg" alt="Top languages" height="165" />
+</p>
 
 ---
 
