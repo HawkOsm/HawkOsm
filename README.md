@@ -49,9 +49,9 @@ A compact overview of my main tools.
 These images pull live data for my GitHub username `HawkOsm`.
 
 <p>
-  <img alt="HawkOsm's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=HawkOsm&show_icons=true&theme=dark" />
+  <img src="https://raw.githubusercontent.com/HawkOsm/HawkOsm/main/github-stats.svg" alt="HawkOsm's GitHub stats" />
   &nbsp;
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HawkOsm&layout=compact&theme=dark" />
+  <img src="https://raw.githubusercontent.com/HawkOsm/HawkOsm/main/top-langs.svg" alt="Top languages" />
 </p>
 
 ---
