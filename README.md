@@ -35,9 +35,8 @@ A compact overview of my main tools.
 
 ##  Top Skills
 
-1. **Python** — Architecting high-performance computer vision pipelines using **YOLO (v8, v11, v26)** for real time object detection.
-2. **Autonomous Systems** — Developing low-latency mission management systems and telemetry data processing via the **ArduPilot** ecosystem and **MAVLink** protocol.
-3. **Docker** — Utilizing **Docker** to containerize development environments, ensuring environmental consistency and reproducible results during simulation and deployment
+1. **Python** — Architecting computer vision pipelines using **YOLO** for real time object detection.
+2. **Autonomous Systems** — Developing mission management systems via the **ArduPilot** ecosystem and **MAVLink** protocol.
 ---
 
 ## Live stats
