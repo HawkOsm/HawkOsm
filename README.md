@@ -1,9 +1,6 @@
 # Hi — I'm Osman Şahin Güler
 
-**Software engineer · automation builder**
-
-I build tools and solutions around mapping, geodata and automation — turning messy spatial data into reliable, reproducible pipelines and clean maps. I prefer clear, practical code and open-source collaboration.
-
+**Software engineer**
 ---
 
 <!-- Quick contact & portfolio links -->
