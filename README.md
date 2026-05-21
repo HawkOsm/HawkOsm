@@ -1,4 +1,4 @@
-# Hi — I'm Osman Şahin Güler 👋
+# Hi — I'm Osman Şahin Güler
 
 **Software engineer · automation builder**
 
@@ -7,9 +7,8 @@ I build tools and solutions around mapping, geodata and automation — turning m
 ---
 
 <!-- Quick contact & portfolio links -->
-- 🔧 Top skills: Python · Docker · Bash · Java · Git
-- 🌐 Portfolio: [osmansahinguler.com](https://osmansahinguler.com)
-- 📄 CV: [Turkish CV](./Osman_Sahin_Guler_CV.pdf) / [English CV](./Osman_Sahin_Guler_CV_Ing.pdf)
+- Top skills: Python · Docker · Bash · Java · Git
+- CV: [Turkish CV](./Osman_Sahin_Guler_CV.pdf) / [English CV](./Osman_Sahin_Guler_CV_Ing.pdf)
 
 ---
 
@@ -28,7 +27,7 @@ A compact overview of my main tools.
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 </p>
 
-### 🗄️ Backend & Tools
+###  Backend & Tools
 <p align="left">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img alt="Bash" src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
@@ -37,7 +36,7 @@ A compact overview of my main tools.
 
 ---
 
-## 🚀 Top Skills
+##  Top Skills
 
 1. **Python** — Architecting high-performance computer vision pipelines using **YOLO (v8, v11, v26)** for real time object detection.
 2. **Autonomous Systems** — Developing low-latency mission management systems and telemetry data processing via the **ArduPilot** ecosystem and **MAVLink** protocol.
@@ -46,8 +45,6 @@ A compact overview of my main tools.
 
 ## Live stats
 
-These images pull live data for my GitHub username `HawkOsm`.
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/HawkOsm/HawkOsm/main/github-stats.svg" alt="HawkOsm's GitHub stats" height="165" />
   &nbsp;
@@ -55,5 +52,5 @@ These images pull live data for my GitHub username `HawkOsm`.
 </p>
 
 ---
-📫 **Reach out via [osmansahinguler.com](https://osmansahinguler.com)**
+ **Reach out via osmansahinguler@gmail.com**
 ---
