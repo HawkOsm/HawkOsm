@@ -55,8 +55,5 @@ These images pull live data for my GitHub username `HawkOsm`.
 </p>
 
 ---
-
-## Get in touch
-
 📫 **Reach out via [osmansahinguler.com](https://osmansahinguler.com)**
 ---
