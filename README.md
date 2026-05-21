@@ -1,6 +1,6 @@
 # Hi — I'm Osman Şahin Güler 👋
 
-**Software engineer · automation builder · open-source collaborator**
+**Software engineer · automation builder**
 
 I build tools and solutions around mapping, geodata and automation — turning messy spatial data into reliable, reproducible pipelines and clean maps. I prefer clear, practical code and open-source collaboration.
 
@@ -57,9 +57,6 @@ These images pull live data for my GitHub username `HawkOsm`.
 ---
 
 ## Get in touch
-
-
-If you're looking for a developer who builds pragmatic, documented, and testable solutions for **Autonomous Systems** or **Computer Vision** — let's connect. I'm always open to collaborating on high-impact engineering projects.
 
 📫 **Reach out via [osmansahinguler.com](https://osmansahinguler.com)**
 ---
