@@ -160,7 +160,7 @@
           data-testid="lang-progress"
           x="0.00"
           y="0"
-          width="131.62"
+          width="131.57"
           height="8"
           fill="#3572A5"
         />
@@ -168,9 +168,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="131.62"
+          x="131.57"
           y="0"
-          width="77.74"
+          width="77.82"
           height="8"
           fill="#3178c6"
         />
@@ -178,9 +178,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="209.37"
+          x="209.38"
           y="0"
-          width="19.09"
+          width="19.08"
           height="8"
           fill="#dea584"
         />
@@ -188,9 +188,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="228.46"
+          x="228.47"
           y="0"
-          width="12.20"
+          width="12.19"
           height="8"
           fill="#DA5B0B"
         />
@@ -220,17 +220,17 @@
     <g transform="translate(0, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">Python 52.65%</text>
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">Python 52.63%</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">TypeScript 31.10%</text>
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">TypeScript 31.13%</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#dea584" />
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">Rust 7.64%</text>
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">Rust 7.63%</text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 900ms">
