@@ -16,7 +16,7 @@
 - **[Senior Project Management Platform](https://github.com/SE3318-Spring-2025-2026/senior-app-1/pulls?q=is%3Apr+author%3AHawkOsm)** — Node.js, React and PostgreSQL team project; I captained one of its two scrum teams. 28 pull requests, 27 merged.
 - **[RSVP Reader](https://github.com/HawkOsm/rsvp-reader)** — speed reader released for web, Linux, Windows, macOS and Android from one TypeScript codebase.
 - **[BlackBox](https://github.com/HawkOsm/BlackBox)** — a Linux desktop flight recorder in Rust.
-- **[Trend Detective](https://hawkosm.github.io/NASA-Earth-System-Trend-Detective/)** — NASA Space Apps Challenge 2026 entry: a 3D globe of 45 years of climate trends.
+- **[Clevo Linux Fixes](https://github.com/HawkOsm/clevo-linux-fixes)** — field guides for running Linux on Clevo/Tongfang laptops (Monster, TUXEDO, XMG), each fix diagnosed on real hardware.
 
 ---
 
