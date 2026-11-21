@@ -1,7 +1,7 @@
 
 # Hi — I'm Osman Şahin Güler 👋
 
-**Software Engineering student at Yaşar University — autonomous systems & computer vision, full-stack, applied AI/ML**
+**Software Engineering student at Yaşar University**
 
 <!-- Quick contact & portfolio links -->
 - 🌐 Portfolio: [osmansahinguler.com](https://osmansahinguler.com)
