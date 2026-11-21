@@ -1,7 +1,7 @@
 
 # Hi — I'm Osman Şahin Güler 👋
 
-**Software Engineering student at Yaşar University**
+**Software Engineering student at Yaşar University — Backend & MLOps**
 
 <!-- Quick contact & portfolio links -->
 - 🌐 Portfolio: [osmansahinguler.com](https://osmansahinguler.com)
